@@ -1,0 +1,13 @@
+# YOLO weights
+yolo-Weights/
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# virtual environment
+venv/
+
+# VSCode
+.vscode/
